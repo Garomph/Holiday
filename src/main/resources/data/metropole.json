@@ -1,0 +1,46 @@
+[
+  {
+    "date": "2025-01-01",
+    "name": "1er janvier"
+  },
+  {
+    "date": "2025-04-21",
+    "name": "Lundi de Pâques"
+  },
+  {
+    "date": "2025-05-01",
+    "name": "1er mai"
+  },
+  {
+    "date": "2025-05-08",
+    "name": "8 mai"
+  },
+  {
+    "date": "2025-05-29",
+    "name": "Ascension"
+  },
+  {
+    "date": "2025-06-09",
+    "name": "Lundi de Pentecôte"
+  },
+  {
+    "date": "2025-07-14",
+    "name": "14 juillet"
+  },
+  {
+    "date": "2025-08-15",
+    "name": "Assomption"
+  },
+  {
+    "date": "2025-11-01",
+    "name": "Toussaint"
+  },
+  {
+    "date": "2025-11-11",
+    "name": "11 novembre"
+  },
+  {
+    "date": "2025-12-25",
+    "name": "Jour de Noël"
+  }
+]
