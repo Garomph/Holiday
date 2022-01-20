@@ -26,11 +26,7 @@ public class SearchHolidayService {
     @SneakyThrows
     public List<Holiday> getHolidaysForArea(String area) {
 
-        return switch (Area.getFromDescription(area)) {
-            case GUYANE -> guyaneRepository.getHolidays();
-            case METROPOLE -> metropoleRepository.getHolidays();
-            case REUNION -> reunionRepository.getHolidays();
-        };
+        return null;
 
     }
 

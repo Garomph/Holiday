@@ -23,6 +23,6 @@ public class SearchController {
 
     @GetMapping("/holiday/{area}")
     public ResponseEntity<List<Holiday>> getHolidayForArea(@PathVariable("area") String area) {
-        return new ResponseEntity<>(service.getHolidaysForArea(area), HttpStatus.OK);
+        return null;
     }
 }

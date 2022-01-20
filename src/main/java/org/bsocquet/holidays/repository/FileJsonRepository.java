@@ -18,12 +18,7 @@ abstract class FileJsonRepository {
     abstract String getNameFile();
 
     public List<Holiday> getHolidays() throws IOException {
-        File file = new ClassPathResource("data/" + getNameFile()).getFile();
-
-        return mapper.readValue(file, new TypeReference<>() {
-        });
-
-
+        return null;
     }
 
 }
